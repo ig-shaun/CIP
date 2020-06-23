@@ -1,3 +1,6 @@
+# Identity Routing Protocol (IRP) Table
+This table describes the standard properties that may be found in an Identity Routing Protocol (IRP) Document.
+
 | Property  | Value | Example Value | Description |
 | ------------- | ------------- | ---------- | ---------- |
 | `profiles`  | Ceramic docId | `ceramic://bafy...` | A link to a [Profiles Routing (PRP) Document (CIP-N)]() |
