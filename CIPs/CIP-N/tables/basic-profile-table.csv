@@ -1,11 +1,11 @@
-Property,Value,Example Value,Description
-name,string,Mary Brown,A link to a Profiles Routing Document (PRD) (CIP-N)
-image,,,A link to a Keychain Routing Document (KRD) (CIP-N)
-description,string,ceramic://bafy...,A link to an Accounts Routing Document (ARD) (CIP-N)
-emoji,string,ceramic://bafy...,A link to a Connections Routing Document (CRD) (CIP-N)
-birthDate,string in ISO YYYY-MM-DD,1995-04-26,A link to a Sources Routing Document (SORD) (CIP-N)
-url,string,ceramic://bafy...,A link to a Services Routing Document (SERD) (CIP-N)
-gender,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
-homeLocation,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
-nationality,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
-affiliation,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
+Property,Value,Size,Example Value,Description
+name,string,max 150 char,"Mary Brown",a human-readable name
+image,URL or fully described ImageObject,max,,an image
+description,string,max 240 char,"Humpty dumpty sat on a wall. This is my description.",a short description
+emoji,string in emoji format :XXXX:,max 10 char,":1234:",an emoji
+birthDate,string in ISO YYYY-MM-DD,max 10 char,"1995-04-26",a date of birth
+url,string,max 240 char,"http://ceramic.network",a url
+gender,string,max 24 char,"female",a gender
+homeLocation,string,max 140 char,"Berlin, Germany",a place of residence
+nationality,string,max 140 char,"United States",a nationality
+affiliation,string,max 140 char,"Ceramic Ecosystem Alliance",affiliations
