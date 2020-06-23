@@ -1,7 +1,7 @@
 ---
 cip: 
 title: Identity Routing Document (IRD)
-author: Michael Sena ([@michaelsena](http://github.com/michaelsena)), Joel Thorstensson ([@oed](http://github.com/oed))
+author: Michael Sena (http://github.com/michaelsena), Joel Thorstensson (http://github.com/oed)
 discussions-to: https://github.com/ceramicnetwork/CIP/issues/3
 status: Pending
 category: Standards
