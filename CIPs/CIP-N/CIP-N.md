@@ -92,7 +92,7 @@ The IRD schema defines a key-docId store which maintains a list of properties an
 
 ### Table
 
-The [IRD table](http://hi.com) contains the standard set of properties that may be contained in any given IRD. New properties can be added to the IRD table by following the steps below. Additional properties not found in this table may be stored in any IRD, however they may be less interoperable since others may not know what they represent.
+The [IRD table](./tables/identity-routing-document-table.csv) contains the standard set of properties that may be contained in any given IRD. New properties can be added to the IRD table by following the steps below. Additional properties not found in this table may be stored in any IRD, however they may be less interoperable since others may not know what they represent.
 
 **How to add a new property to the IRD table**
 
@@ -135,9 +135,9 @@ content:
 
 ## Implementation
 
-**IRD Schema:** The version of the IRD schema defined in this CIP can be found at [ceramic://bafy.../?version](http://hi.com).
+**IRD Schema:** The version of the IRD schema defined in this CIP can be found at ceramic://bafy.../?version (coming soon).
 
-**IRD Table:** The table containing standard IRD properties can be found [here](http://hi.com).
+**IRD Table:** The table containing standard IRD properties can be found [here](./tables/identity-routing-document-table.csv).
 
 **Libraries:** Not yet available.
 
