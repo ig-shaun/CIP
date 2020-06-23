@@ -1,0 +1,11 @@
+Property,Value,Example Value,Description
+name,string,Mary Brown,A link to a Profiles Routing Document (PRD) (CIP-N)
+image,,,A link to a Keychain Routing Document (KRD) (CIP-N)
+description,string,ceramic://bafy...,A link to an Accounts Routing Document (ARD) (CIP-N)
+emoji,string,ceramic://bafy...,A link to a Connections Routing Document (CRD) (CIP-N)
+birthDate,string in ISO YYYY-MM-DD,1995-04-26,A link to a Sources Routing Document (SORD) (CIP-N)
+url,string,ceramic://bafy...,A link to a Services Routing Document (SERD) (CIP-N)
+gender,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
+homeLocation,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
+nationality,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
+affiliation,string,ceramic://bafy...,A link to an Access Control Document (CIP-N)
