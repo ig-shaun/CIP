@@ -1,9 +1,9 @@
 | Property  | Value | Example Value | Description |
 | ------------- | ------------- | ---------- | ---------- |
-| profiles  | Ceramic docId | `ceramic://bafy...` | A link to the DID's [Profile Routing Protocol (PRP) document (CIP-N)]() |
-| keychain  | Ceramic docId  | `ceramic://bafy...` | A link to the DID's [Keychain Routing Protocol (KRP) document (CIP-N)]() |
-| accounts  | Ceramic docId  | `ceramic://bafy...` | A link to the DID's [Accounts Routing Protocol (ARP) document (CIP-N)]() |
-| connections  | Ceramic docId  | `ceramic://bafy...` | A link to the DID's [Connections Routing Protocol (CRP) document (CIP-N)]() |
-| sources  | Ceramic docId  | `ceramic://bafy...` | A link to the DID's [Sources Routing Protocol (SORP) document (CIP-N)]() |
-| services  | Ceramic docId  | `ceramic://bafy...` | A link to the DID's [Services Routing Protocol (SERP) document (CIP-N)]() |
-| acl  | Ceramic docId  | `ceramic://bafy...` | A link to this document's [Access Control document (CIP-N)]() |
+| `profiles`  | Ceramic docId | `ceramic://bafy...` | A link to a [Profiles Routing (PRP) Document (CIP-N)]() |
+| `keychain`  | Ceramic docId  | `ceramic://bafy...` | A link to a [Keychain Routing (KRP) Document (CIP-N)]() |
+| `accounts`  | Ceramic docId  | `ceramic://bafy...` | A link to an [Accounts Routing (ARP) Document (CIP-N)]() |
+| `connections`  | Ceramic docId  | `ceramic://bafy...` | A link to a [Connections Routing (CRP) Document (CIP-N)]() |
+| `sources`  | Ceramic docId  | `ceramic://bafy...` | A link to a [Sources Routing (SORP) Document (CIP-N)]() |
+| `services`  | Ceramic docId  | `ceramic://bafy...` | A link to a [Services Routing (SERP) Document (CIP-N)]() |
+| `acl`  | Ceramic docId  | `ceramic://bafy...` | A link to an [Access Control Document (CIP-N)]() |
