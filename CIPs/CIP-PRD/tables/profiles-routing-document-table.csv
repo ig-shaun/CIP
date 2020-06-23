@@ -1,0 +1,5 @@
+Property,Value,Example Value,Description
+basic,Ceramic docId,ceramic://bafy...,A link to a Basic Profile Document (CIP-N)
+work,Ceramic docId,ceramic://bafy...,A link to a Work Profile Document (CIP-N)
+education,Ceramic docId,ceramic://bafy...,A link to an Education Profile Document (CIP-N)
+gaming,Ceramic docId,ceramic://bafy...,A link to a Gaming Profile Document (CIP-N)
