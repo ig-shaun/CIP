@@ -1,7 +1,7 @@
 Property,Value,Example Value,Description
-profiles,Ceramic docId,ceramic://bafy...,A link to a Profiles Routing Document (PRD) (CIP-N)
-keychains,Ceramic docId,ceramic://bafy...,A link to a Keychain Routing Document (KRD) (CIP-N)
-accounts,Ceramic docId,ceramic://bafy...,A link to an Accounts Routing Document (ARD) (CIP-N)
-connections,Ceramic docId,ceramic://bafy...,A link to a Connections Routing Document (CRD) (CIP-N)
-collections,Ceramic docId,ceramic://bafy...,A link to a Sources Routing Document (SORD) (CIP-N)
-services,Ceramic docId,ceramic://bafy...,A link to a Services Routing Document (SERD) (CIP-N)
+profiles,Ceramic docId,ceramic://bafy...,A link to a Profiles Index
+keychains,Ceramic docId,ceramic://bafy...,A link to a Keychains Index
+accounts,Ceramic docId,ceramic://bafy...,A link to an Accounts Index
+connections,Ceramic docId,ceramic://bafy...,A link to a Connections Index
+collections,Ceramic docId,ceramic://bafy...,A link to a Collections Index
+services,Ceramic docId,ceramic://bafy...,A link to a Services Index
