@@ -1,0 +1,8 @@
+CIP,Directory,Description,Level,CIP URL
+n,Root Index,top-level root directory for a DID's resources,1,https://github.com/ceramicnetwork/CIP/issues/21
+n,Profiles Index,subdirectory containing links to a DID's profiles,2,https://github.com/ceramicnetwork/CIP/issues/12
+n,Keychains Index,subdirectory containing links to a DID's keychains,2,https://github.com/ceramicnetwork/CIP/issues/13
+n,Accounts Index,subdirectory containing links to a DID's accounts (i.e. crypto or Oauth),2,https://github.com/ceramicnetwork/CIP/issues/14
+n,Connections Index,subdirectory containing links to a DID's social connections (i.e. follows),2,
+n,Collections Index,subdirectory containing links to a DID's data collections (i.e. app data),2,
+n,Services Index,subdirectory containing links to a DID's services (i.e. notifications or backup),2,

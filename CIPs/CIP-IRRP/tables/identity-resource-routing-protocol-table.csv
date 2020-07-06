@@ -1,8 +1,0 @@
-CIP,Name,Description,Level,CIP URL
-n,Identity Routing Document (IRD),a top-level index and routing table for a DID's resources,1,https://github.com/ceramicnetwork/CIP/issues/21
-n,Profiles Routing Document (PRD),an index and routing table for a DID's profiles,2,https://github.com/ceramicnetwork/CIP/issues/12
-n,Keychain Routing Document (KRD),an index and routing table for a DID's authentication keychains,2,
-n,Accounts Routing Document (ARD),an index and routing table for a DID's external accounts,2,
-n,Connections Routing Document (CRD),an index and routing table for a DID's social connections,2,
-n,Sources Routing Document (SORD),an index and routing table for a DID's external data sources,2,
-n,Services Routing Document (SERD),an index and routing table for a DID's services,2,
