@@ -1,0 +1,5 @@
+Property,Value,Example Value,Description
+basic,Ceramic docId,ceramic://bafy...,A link to a Basic Profile
+work,Ceramic docId,ceramic://bafy...,A link to a Work Profile
+education,Ceramic docId,ceramic://bafy...,A link to an Education Profile
+gaming,Ceramic docId,ceramic://bafy...,A link to a Gaming Profile
