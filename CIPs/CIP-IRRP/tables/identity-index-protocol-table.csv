@@ -6,4 +6,4 @@ CIP,Directory,Description,Level,CIP URL
 18,Connections Index,subdirectory containing links to a DID's social connections (i.e. follows),2,https://github.com/ceramicnetwork/CIP/issues/17
 16,Collections Index,subdirectory containing links to a DID's data collections (i.e. app data),2,https://github.com/ceramicnetwork/CIP/issues/26
 17,Services Index,subdirectory containing links to a DID's services (i.e. notifications or backup),2,https://github.com/ceramicnetwork/CIP/issues/19
-24,Settings Index,subdirectory containing links to a DID's settings documents (i.e. internationalization, accessibility),2,https://github.com/ceramicnetwork/CIP/issues/57
+24,Settings Index,subdirectory containing links to a DID's settings documents (i.e. internationalization or accessibility),2,https://github.com/ceramicnetwork/CIP/issues/57
