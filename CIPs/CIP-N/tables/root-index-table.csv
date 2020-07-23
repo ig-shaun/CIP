@@ -5,3 +5,4 @@ accounts,Ceramic docId,ceramic://bafy...,A link to an Accounts Index
 connections,Ceramic docId,ceramic://bafy...,A link to a Connections Index
 collections,Ceramic docId,ceramic://bafy...,A link to a Collections Index
 services,Ceramic docId,ceramic://bafy...,A link to a Services Index
+settings,Ceramic docId,ceramic://bafy...,A link to a Settings Index
